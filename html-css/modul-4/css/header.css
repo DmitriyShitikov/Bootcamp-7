@@ -1,0 +1,47 @@
+.header{
+  width: 1110px;
+  margin-bottom: 70px;
+  padding-top: 20px;
+}
+
+.logo{
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #858282;
+  margin-right: 150px;
+}
+.logo:first-letter{
+  color: #1abc9c;
+}
+.menu ul li{
+  display: inline-block;
+  list-style-type: none;
+  font-size: 20px;
+  color: #222222;
+  margin-right: 20px;
+
+}
+.menu ul li:nth-last-child(1){
+  margin-right: 0;
+}
+.menu{
+  width: 460px;
+  display: inline-block;
+}
+.header h1 {
+  margin-right: 390px;
+  font-size: 30px;
+}
+.menu ul{
+  width: 460px;
+}
+.menu a{
+  text-decoration: none;
+  color: #000000;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.menu ul li:first-child a{
+  color: #4ec6ab;
+}
